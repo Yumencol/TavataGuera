@@ -5,6 +5,7 @@ h1{
     font-family: "Libre Baskerville", serif;
     color: white;
     text-transform: capitalize;
+    font-size: 3rem;
 }
 #principal{
     text-align: center;
@@ -14,6 +15,7 @@ h1{
 }
 p{
     color: yellow;
+    font-size: 2rem;
   
 }
 #guera{
