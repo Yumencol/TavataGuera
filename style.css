@@ -1,0 +1,22 @@
+html{
+    background-color: black;
+}
+h1{
+    font-family: "Libre Baskerville", serif;
+    color: white;
+    text-transform: capitalize;
+}
+#principal{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 25%;
+}
+p{
+    color: yellow;
+  
+}
+#guera{
+    border: 5px white solid;
+    width: 100%;
+}
